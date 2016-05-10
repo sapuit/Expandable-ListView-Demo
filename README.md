@@ -4,4 +4,6 @@
 - mở rộng và thu lại khi click vào item 
 
 # Sử dụng 
+1. Thêm thư viện `Recycleview`
+2. 
 # Tài liệu tham khảo
